@@ -4,6 +4,7 @@
 
 ## Implementation
   This site currently deploys from Netlify through github. It currently only uses HTML and CSS.
+  https://craftingcoders.netlify.com
 
 ## Future Plans
   Current plans for the site are to add a database with admin user capabilities using rails or flask frameworks, update the CSS to responsive CSS Grid, and to add JQuery for a better UIX.
